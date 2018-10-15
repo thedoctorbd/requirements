@@ -12,3 +12,8 @@ Additional requirements for The Doctor BD
 
 * https://www.youtube.com/watch?v=AJdjkkr-RY0
 * https://www.youtube.com/watch?v=xUR4AEHP-i8
+
+
+# github page related with digital ocean
+
+* https://www.digitalocean.com/community/tutorials/how-to-use-digitalocean-s-dns-for-custom-github-urls
